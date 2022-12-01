@@ -15,7 +15,7 @@
 
         ElseIf Panel1.Visible = True Then
 
-            Panel1.Visible = False
+            Panel1.Visible = false
 
         End If
 
