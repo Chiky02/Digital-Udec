@@ -16,7 +16,7 @@
         ElseIf Panel1.Visible = True Then
 
             Panel1.Visible = false
-            panel2.Visible=true
+            panel3.Visible=true
 
         End If
 
